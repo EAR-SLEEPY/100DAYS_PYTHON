@@ -2,17 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ed78c19-f827-46e5-a055-6b0c39eccd67" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/100DAYS_PYTHON.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_第一个Python程序/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Python语言中的变量/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_PYTHON语言中的运算符/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,6 +43,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\EAR\EAR_PROJECT\100DAYS_PYTHON" />
       <recent name="E:\EAR\EAR_PROJECT\100DAYS_PYTHON\02_第一个Python程序" />
     </key>
   </component>
@@ -60,6 +65,8 @@
       <workItem from="1765358963590" duration="185000" />
       <workItem from="1765359374479" duration="24000" />
       <workItem from="1765359420753" duration="69000" />
+      <workItem from="1765441641718" duration="1410000" />
+      <workItem from="1765532094761" duration="1801000" />
     </task>
     <servers />
   </component>
@@ -67,6 +74,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/100DAYS_PYTHON$main.coverage" NAME="main 覆盖结果" MODIFIED="1765359142680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/100DAYS_PYTHON$main.coverage" NAME="main 覆盖结果" MODIFIED="1765533793414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_PYTHON语言中的运算符" />
   </component>
 </project>
