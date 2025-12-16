@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ed78c19-f827-46e5-a055-6b0c39eccd67" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/03_Python语言中的变量/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_PYTHON语言中的运算符/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_分支结构/1_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_分支结构/2_Results_To_Grades.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_PYTHON语言中的运算符/CIRCLE.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_PYTHON语言中的运算符/CIRCLE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,18 +31,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.1.executor": "Run",
+    "Python.2_Results_To_Grades.executor": "Run",
+    "Python.CIRCLE.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\EAR\EAR_PROJECT\100DAYS_PYTHON" />
@@ -67,6 +72,8 @@
       <workItem from="1765359420753" duration="69000" />
       <workItem from="1765441641718" duration="1410000" />
       <workItem from="1765532094761" duration="1801000" />
+      <workItem from="1765538523612" duration="4089000" />
+      <workItem from="1765868124032" duration="4455000" />
     </task>
     <servers />
   </component>
@@ -75,5 +82,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100DAYS_PYTHON$main.coverage" NAME="main 覆盖结果" MODIFIED="1765533793414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_PYTHON语言中的运算符" />
+    <SUITE FILE_PATH="coverage/100DAYS_PYTHON$CIRCLE.coverage" NAME="CIRCLE 覆盖结果" MODIFIED="1765539693584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_PYTHON语言中的运算符" />
+    <SUITE FILE_PATH="coverage/100DAYS_PYTHON$1.coverage" NAME="1 覆盖结果" MODIFIED="1765870332438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_分支结构" />
+    <SUITE FILE_PATH="coverage/100DAYS_PYTHON$2_Results_To_Grades.coverage" NAME="2_Results_To_Grades 覆盖结果" MODIFIED="1765873196381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_分支结构" />
   </component>
 </project>
