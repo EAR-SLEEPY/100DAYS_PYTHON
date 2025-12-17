@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ed78c19-f827-46e5-a055-6b0c39eccd67" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/06_循环结构/1_Circle_Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_循环结构/2_Prime_Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_循环结构/3_random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_循环结构/4_random_plus.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -38,17 +38,23 @@
     "Python.2_.executor": "Run",
     "Python.2_Prime_Numbers.executor": "Run",
     "Python.2_Results_To_Grades.executor": "Run",
+    "Python.3_random.executor": "Run",
+    "Python.4_random_plus.executor": "Run",
     "Python.CIRCLE.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/EAR/EAR_PROJECT/100DAYS_PYTHON/06_循环结构",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\EAR\EAR_PROJECT\100DAYS_PYTHON\06_循环结构" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\EAR\EAR_PROJECT\100DAYS_PYTHON" />
       <recent name="E:\EAR\EAR_PROJECT\100DAYS_PYTHON\02_第一个Python程序" />
@@ -75,17 +81,32 @@
       <workItem from="1765441641718" duration="1410000" />
       <workItem from="1765532094761" duration="1801000" />
       <workItem from="1765538523612" duration="4089000" />
-      <workItem from="1765868124032" duration="9704000" />
+      <workItem from="1765868124032" duration="10309000" />
+      <workItem from="1765937073819" duration="4803000" />
+      <workItem from="1765963773130" duration="1277000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/06_循环结构/3_random.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100DAYS_PYTHON$main.coverage" NAME="main 覆盖结果" MODIFIED="1765533793414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_PYTHON语言中的运算符" />
+    <SUITE FILE_PATH="coverage/100DAYS_PYTHON$3_random.coverage" NAME="3_random 覆盖结果" MODIFIED="1765963189443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_循环结构" />
     <SUITE FILE_PATH="coverage/100DAYS_PYTHON$1_.coverage" NAME="1_ 覆盖结果" MODIFIED="1765874940637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_循环结构" />
     <SUITE FILE_PATH="coverage/100DAYS_PYTHON$CIRCLE.coverage" NAME="CIRCLE 覆盖结果" MODIFIED="1765539693584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_PYTHON语言中的运算符" />
+    <SUITE FILE_PATH="coverage/100DAYS_PYTHON$4_random_plus.coverage" NAME="4_random_plus 覆盖结果" MODIFIED="1765964952797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_循环结构" />
     <SUITE FILE_PATH="coverage/100DAYS_PYTHON$1.coverage" NAME="1 覆盖结果" MODIFIED="1765870332438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_分支结构" />
     <SUITE FILE_PATH="coverage/100DAYS_PYTHON$2_Results_To_Grades.coverage" NAME="2_Results_To_Grades 覆盖结果" MODIFIED="1765873196381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_分支结构" />
     <SUITE FILE_PATH="coverage/100DAYS_PYTHON$2_Prime_Numbers.coverage" NAME="2_Prime_Numbers 覆盖结果" MODIFIED="1765878736194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_循环结构" />
