@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ed78c19-f827-46e5-a055-6b0c39eccd67" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/06_循环结构/3_random.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_循环结构/4_random_plus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_分支和循环结构实战/1_Fibonacci_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_分支和循环结构实战/2_narcissistic_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_分支和循环结构实战/3_chicken.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_分支和循环结构实战/4_CRAPS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +36,15 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.1.executor": "Run",
     "Python.1_.executor": "Run",
+    "Python.1_Fibonacci_sequence.executor": "Run",
     "Python.2_.executor": "Run",
     "Python.2_Prime_Numbers.executor": "Run",
     "Python.2_Results_To_Grades.executor": "Run",
+    "Python.2_narcissistic_number.executor": "Run",
+    "Python.3_.executor": "Run",
+    "Python.3_chicken.executor": "Run",
     "Python.3_random.executor": "Run",
+    "Python.4_CRAPS.executor": "Run",
     "Python.4_random_plus.executor": "Run",
     "Python.CIRCLE.executor": "Run",
     "Python.main.executor": "Run",
@@ -84,6 +90,9 @@
       <workItem from="1765868124032" duration="10309000" />
       <workItem from="1765937073819" duration="4803000" />
       <workItem from="1765963773130" duration="1277000" />
+      <workItem from="1765965288568" duration="226000" />
+      <workItem from="1765965700727" duration="3000" />
+      <workItem from="1766038159070" duration="13370000" />
     </task>
     <servers />
   </component>
@@ -98,17 +107,42 @@
           <line>3</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/07_分支和循环结构实战/1_Fibonacci_sequence.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/07_分支和循环结构实战/3_chicken.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/07_分支和循环结构实战/4_CRAPS.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="i_1,i_2" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/100DAYS_PYTHON$main.coverage" NAME="main 覆盖结果" MODIFIED="1765533793414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_PYTHON语言中的运算符" />
     <SUITE FILE_PATH="coverage/100DAYS_PYTHON$3_random.coverage" NAME="3_random 覆盖结果" MODIFIED="1765963189443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_循环结构" />
     <SUITE FILE_PATH="coverage/100DAYS_PYTHON$1_.coverage" NAME="1_ 覆盖结果" MODIFIED="1765874940637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_循环结构" />
+    <SUITE FILE_PATH="coverage/4_random_plus_py$1_Fibonacci_sequence.coverage" NAME="1_Fibonacci_sequence 覆盖结果" MODIFIED="1766040588092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_分支和循环结构实战" />
     <SUITE FILE_PATH="coverage/100DAYS_PYTHON$CIRCLE.coverage" NAME="CIRCLE 覆盖结果" MODIFIED="1765539693584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_PYTHON语言中的运算符" />
-    <SUITE FILE_PATH="coverage/100DAYS_PYTHON$4_random_plus.coverage" NAME="4_random_plus 覆盖结果" MODIFIED="1765964952797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_循环结构" />
+    <SUITE FILE_PATH="coverage/4_random_plus_py$3_.coverage" NAME="3_ 覆盖结果" MODIFIED="1766043300668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_分支和循环结构实战" />
     <SUITE FILE_PATH="coverage/100DAYS_PYTHON$1.coverage" NAME="1 覆盖结果" MODIFIED="1765870332438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_分支结构" />
+    <SUITE FILE_PATH="coverage/4_random_plus_py$3_chicken.coverage" NAME="3_chicken 覆盖结果" MODIFIED="1766045467804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_分支和循环结构实战" />
+    <SUITE FILE_PATH="coverage/100DAYS_PYTHON$main.coverage" NAME="main 覆盖结果" MODIFIED="1765533793414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_PYTHON语言中的运算符" />
+    <SUITE FILE_PATH="coverage/100DAYS_PYTHON$4_random_plus.coverage" NAME="4_random_plus 覆盖结果" MODIFIED="1765964952797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_循环结构" />
+    <SUITE FILE_PATH="coverage/4_random_plus_py$4_CRAPS.coverage" NAME="4_CRAPS 覆盖结果" MODIFIED="1766051754236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_分支和循环结构实战" />
     <SUITE FILE_PATH="coverage/100DAYS_PYTHON$2_Results_To_Grades.coverage" NAME="2_Results_To_Grades 覆盖结果" MODIFIED="1765873196381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_分支结构" />
+    <SUITE FILE_PATH="coverage/4_random_plus_py$2_narcissistic_number.coverage" NAME="2_narcissistic_number 覆盖结果" MODIFIED="1766042433739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_分支和循环结构实战" />
     <SUITE FILE_PATH="coverage/100DAYS_PYTHON$2_Prime_Numbers.coverage" NAME="2_Prime_Numbers 覆盖结果" MODIFIED="1765878736194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_循环结构" />
     <SUITE FILE_PATH="coverage/100DAYS_PYTHON$2_.coverage" NAME="2_ 覆盖结果" MODIFIED="1765875474662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_循环结构" />
   </component>
